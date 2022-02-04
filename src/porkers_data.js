@@ -1,4 +1,4 @@
-const hogs = [
+export const hogs = [
   {
     name: "Babe",
     specialty: "Being incredibly cute",
@@ -100,4 +100,4 @@ const hogs = [
   },
 ];
 
-export default hogs;
+
